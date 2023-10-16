@@ -1,0 +1,69 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    background-color: rgb(26, 31, 28);
+    width: 100%;
+    height: 50px;
+    position: sticky;
+    top: 0%;
+}
+header h2{
+    text-align: center;
+    color: rgb(227, 188, 188);
+    padding: 10px;
+}
+h2:hover{
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.raw{
+    background-color: rgb(18, 39, 39);
+    width: 100%;
+    height: 400px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.col{
+    background-color: rgb(18, 39, 39);
+    /* background-color: rgb(204, 173, 19); */
+    width: 250%;
+    height: 400px;
+    margin-left: 10px;
+}
+
+h4,h5{
+    text-align: center;
+    color: rgb(225, 225, 244);
+}
+#btn1{
+    color: rgb(218, 230, 236);
+    background-color: rgb(39, 55, 23);
+    padding: 5px;
+    margin-left: 100px;
+    
+}
+footer,p{
+    background-color: rgb(53, 56, 54);
+    color: azure;
+    width: 100%;
+    height: 50px;
+}
+h3{
+    text-align: center;
+}
+.banner{
+   background-image: url(https://st4.depositphotos.com/1484771/37819/i/450/depositphotos_378193086-stock-photo-literature-reading-concept-banner-header.jpg);
+    width: 100%;
+    height: 250px;
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+}
+.img{
+    width: 239px;
+    height: 332px;
+}
